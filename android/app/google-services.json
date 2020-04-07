@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135693807394",
+    "firebase_url": "https://korona-var-korona.firebaseio.com",
+    "project_id": "korona-var-korona",
+    "storage_bucket": "korona-var-korona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135693807394:android:052876a2427420b2987f7b",
+        "android_client_info": {
+          "package_name": "com.tildadev.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135693807394-uml8bhjlo0grqiarkddehmuf7b9gpgaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOVSR3Pcn08uvQJ5nQMVfflyitdE_Ehqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135693807394-uml8bhjlo0grqiarkddehmuf7b9gpgaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
