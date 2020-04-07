@@ -43,14 +43,7 @@ android {
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-    }
-    signingConfigs {
-        release {
-            keyAlias "key"
-            keyPassword "2565605"
-            storeFile file("C:\\Users\\GokhanAltinkilit\\FlutterProjects\\covid19\\key.jks")
-            storePassword "2565605"
-        }
+    
     }
 
     buildTypes {
