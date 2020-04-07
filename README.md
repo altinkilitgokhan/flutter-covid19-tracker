@@ -1,4 +1,4 @@
-# covid19
+# covid19-tracker
 
 A new Flutter application.
 
